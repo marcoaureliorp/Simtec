@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link href="/home/templates/padraogoverno01/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon"/>
 
-    <title>(SIMTEC) - III SIMPÓSIO DE TECNOLOGIA DA INFORMAÇÃO DO IF GOIANO – CAMPUS CERES</title>
+    <title>SIMTEC - III SIMPÓSIO DE TECNOLOGIA DA INFORMAÇÃO DO IF GOIANO – CAMPUS CERES</title>
 
     <link rel="stylesheet" href="public/css/style.css">
 
@@ -141,7 +141,7 @@
                 <p>
                     Acadêmico do curso de Ciência da Computação, na UFG Campus Goiânia. Presidente da empresa júnior da Computação da UFG.
                 </p>
-                <h2>Impactos Empresa Junior na sociedade</h2>
+                <h2>Como o empreendedorismo pode impactar sua graduação</h2>
                 <h3>Horário: 09:00 às 10:00</h3>
             </article>
 
